@@ -235,6 +235,7 @@ APP_PRIVATE_KEY=your_solana_private_key
 ### Frontend Configuration
 
 The frontend automatically proxies API requests to `http://0.0.0.0:3028` during development. For production, ensure the API base URL is properly configured.
+<!-- Configure API base via env at build time; avoid hard-coded URLs -->
 
 ## 🔐 Security Features
 
