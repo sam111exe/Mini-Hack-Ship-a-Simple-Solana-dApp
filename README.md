@@ -162,6 +162,7 @@ Draft → PendingApprovalByGov → ApprovedByGov → TokenizationInProgress → 
 - **Metadata**: Dynamic JSON metadata for each property
 
 ## 📊 API Reference
+<!-- OpenAPI spec auto-generated: /backend/codegen/openapi.json (bun run codegen) -->
 
 ### Authentication Endpoints
 ```
