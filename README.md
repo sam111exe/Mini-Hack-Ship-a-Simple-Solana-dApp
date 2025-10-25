@@ -261,21 +261,10 @@ The frontend automatically proxies API requests to `http://0.0.0.0:3028` during 
 
 ## 📈 Development Workflow
 
-
-## 📝 Contributing
-
-This is a proprietary project. Please refer to the LICENSE file for usage restrictions.
-
 ## 🐛 Known Issues
 
 - Development environment uses HTTPS with local certificates
 - Some blockchain operations may require manual confirmation
 - S3 upload configuration is environment-specific
 
-## 📞 Support
-
-For technical support or questions, please contact the development team.
-
 ---
-
-**Copyright © 2025 Arman Sergazin. All rights reserved.**
