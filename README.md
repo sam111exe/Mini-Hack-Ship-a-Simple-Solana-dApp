@@ -16,6 +16,7 @@ The project consists of three main components:
 - **Blockchain Layer** - Solana NFT tokenization with Metaplex integration
 
 ## ✨ Key Features
+<!-- Keep features in sync with actual routes and UI capabilities -->
 
 ### 🏠 Real Estate Management
 - **Multi-Asset Type Support**: Apartments, Houses, Garages, Parking, Land, Commercial, Business, Industrial
