@@ -264,4 +264,8 @@ The frontend automatically proxies API requests to `http://0.0.0.0:3028` during 
 - Some blockchain operations may require manual confirmation
 - S3 upload configuration is environment-specific
 
+##📄 License
+
+- This software is proprietary. All rights reserved.
+
 ---
