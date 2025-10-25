@@ -7,9 +7,6 @@
 
 RealX is a comprehensive real estate tokenization platform that enables users to convert physical real estate properties into digital NFTs on the Solana blockchain, facilitating fractional ownership and secure trading of real estate assets.
 
-## 🏗️ Sоlana Day by Dеcеntrаthоn
-This project was developed as part of the Sоlana Day by Dеcеntrаthоn hackathon, showcasing the potential of blockchain technology in transforming traditional industries.
-
 ## 🏗️ Project Architecture
 
 The project consists of three main components:
