@@ -108,6 +108,7 @@ backend/src/
 ├── codegen/          # Auto-generated types & models
 └── controller.ts     # Central API controller
 ```
+<!-- NOTE: codegen output is generated; do not edit manually -->
 
 ### Frontend Structure
 
